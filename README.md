@@ -1,6 +1,6 @@
 A merge sort algorithm visualizer, made in React.
 
-![](merge-sort.gif)
+![public](merge-sort.gif)
 
 
 # Getting Started with Create React App
